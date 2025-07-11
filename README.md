@@ -38,7 +38,7 @@ This repo covers **all major Java topics**, in the right learning order:
 | ✅ Miscellaneous               | Math class, date/time, command-line args, etc.          |
 
 
-🙌 Special Note
+🙌 Special Note: 
 If you're just starting your coding journey — I understand your struggles. I’ve been there too. That’s exactly why I built this project — so others can learn Java with clarity and confidence, one simple program at a time.
 
 ⭐ If you find this helpful, give this repo a star and share it with your friends learning Java!
